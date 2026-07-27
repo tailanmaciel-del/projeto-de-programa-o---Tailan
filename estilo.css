@@ -40,6 +40,7 @@ color: aqua;
 text-decoration: none;
 
 }
+
 h1{
     color: azure;
     font-size: 20px;
@@ -49,4 +50,5 @@ footer{
     background-color: rgb(238, 70, 70); 
     padding: 15px 25px;
 color: rgb(36, 33, 33);
+
 }
