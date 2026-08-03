@@ -52,3 +52,11 @@ footer{
 color: rgb(36, 33, 33);
 
 }
+
+.cartao-interno{
+    position: relative;
+}
+
+.cartao-frente, .cartao-verso{
+position: absolute;
+}
